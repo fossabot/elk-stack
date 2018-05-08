@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwdtmatt%2Felk-stack.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwdtmatt%2Felk-stack?ref=badge_shield)
+
 ELK Stack with Google OAuth
 ===========================
 
@@ -81,3 +83,6 @@ License
 [3]: <http://www.elasticsearch.org/overview/kibana/> "Kibana"
 [4]: <http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-scripting.html> "ES Scripting"
 [5]: <https://console.developers.google.com> "Google Developer Console"
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwdtmatt%2Felk-stack.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwdtmatt%2Felk-stack?ref=badge_large)
